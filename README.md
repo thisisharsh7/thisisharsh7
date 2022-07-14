@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" />, I'm Harsh Kumar</h1>
 <h3 align="center">Having fun doing what I love❤️</h3>
 
 
