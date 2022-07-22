@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **9u.harsh@gmail.com**
 
-- ⚡ Fun fact **I enjoy reading📖**
+- ⚡ Fun fact **I ❤️ the 🌊.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
