@@ -3,11 +3,11 @@
 
 **I am a Front-End Web Developer**
 
-- 🌱 I’m currently learning **C++ , React , PHP**
+- 🌱 I’m currently learning **C++ , Next.js , PHP**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript , C++ , Git and GitHub**
+- 💬 Ask me about **C , HTML , CSS , JavaScript , React , C++ , Git and GitHub**
 
 - 📫 How to reach me **9u.harsh@gmail.com**
 
