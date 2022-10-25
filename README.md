@@ -6,7 +6,7 @@
 
 **I am a Front-End Web Developer**
 
-- 🌱 I’m currently learning **C++ , Next.js , PHP**
+- 🌱 I’m currently learning **C++ , Next.js, Express, NodeJs**
 
 - 🤝 I’m looking for help with **Open Source**
 
