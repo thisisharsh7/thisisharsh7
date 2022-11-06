@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" />, I'm Harsh Kumar</h1>
 
-<h3 align="center">Having fun doing what I love❤️</h3>
-
-**I am a Front-End Web Developer**
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 🌱 I’m currently learning **C++ , Next.js, Express, NodeJs**
 
@@ -15,15 +13,6 @@
 - ⚡ Fun fact **I ❤️ the 🌊.**
 
 - 📝 My [Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b "My First Dev Blog")
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=thisisharsh7&theme=gruvbox_duo&border_radius=5.9)](https://git.io/streak-stats"/>
-  </a>
-</p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -95,3 +84,23 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
+<br>
+
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisharsh7&layout=compact&hide_title=1&card_width=300" alt="Top language used" />
+  </div>
+<br>
+
+
+## 🔥 Streak stats
+<br>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thisisharsh7's streak" src="https://streak-stats.demolab.com?user=thisisharsh7&theme=gruvbox_duo&border_radius=5.9)](https://git.io/streak-stats"/>
+  </a>
+</p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=thisisharsh7&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
