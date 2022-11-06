@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" />, I'm Harsh Kumar</h1>
+<h1>Hello there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" /></h1>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
