@@ -12,11 +12,13 @@
 
 - 📝 My [Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b "My First Dev Blog")
 
+<br/>
+<br/>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-#### 🎓Skills
+### 🎓Skills
 
-<br>
+<br/>
 <table>
 <tr>
 <td align="center" width="96">
@@ -34,24 +36,30 @@
 </tr>
 </table>
 
-#### 👨‍💻 Programming languages
+<br/>
+<br/>
 
-<br>
-<p>
+### 👨‍💻 Programming languages
+
+<br/>
+<p >
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Athisisharsh7+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white"></a>
 </p>
 
-#### 🧰 Frameworks & Libraries
+<br/>
+<br/>
 
-<br>
+### 🧰 Frameworks & Libraries
+
+<br/>
 <p>
    <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Atailwindcss"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
    <a href="https://github.com/search?q=user%3Athisisharsh7+language%3Abootstrap"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
@@ -59,7 +67,10 @@
         <a href="https://github.com/search?q=user%3Athisisharsh7+language%3AnextJs"><img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></a>
 </p>
 
-#### 🗄️ Databases & Hosting
+<br/>
+<br/>
+
+### 🗄️ Databases & Hosting
 
 <br>
 <p>
@@ -69,6 +80,9 @@
     <a href="#"><img alt="vercel" src ="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </p>
+
+<br/>
+<br/>
 
 ### 💻 Software & Tools
 
@@ -84,14 +98,13 @@
 </p>
 <br>
 
-
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisharsh7&layout=compact&hide_title=1&card_width=300" alt="Top language used" />
   </div>
 <br>
 
-
 ## 🔥 Streak stats
+
 <br>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
