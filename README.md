@@ -55,7 +55,6 @@
 </p>
 
 <br/>
-<br/>
 
 ### 🧰 Frameworks & Libraries
 
@@ -67,7 +66,6 @@
         <a href="https://github.com/search?q=user%3Athisisharsh7+language%3AnextJs"><img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" ></a>
 </p>
 
-<br/>
 <br/>
 
 ### 🗄️ Databases & Hosting
@@ -82,7 +80,6 @@
 </p>
 
 <br/>
-<br/>
 
 ### 💻 Software & Tools
 
@@ -96,13 +93,13 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<br>
+<br/>
+<br/>
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisharsh7&layout=compact&hide_title=1&card_width=300" alt="Top language used" />
   </div>
 <br>
-
 ## 🔥 Streak stats
 
 <br>
