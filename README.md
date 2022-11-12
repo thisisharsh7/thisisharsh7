@@ -100,6 +100,7 @@
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisharsh7&layout=compact&hide_title=1&card_width=300" alt="Top language used" />
   </div>
 <br>
+
 ## 🔥 Streak stats
 
 <br>
