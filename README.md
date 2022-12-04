@@ -2,9 +2,9 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=for-the-badge&v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🌱 I’m currently learning **MongoDB, Express, NodeJs, Blockchain**
+- 🌱 I'm currently learning **MongoDB, Express, NodeJs, Blockchain**
 
-- 🤝 I’m looking for help with **Open Source**
+- 🤝 I am looking for help with **Open Source**
 
 - 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Git and GitHub**
 
