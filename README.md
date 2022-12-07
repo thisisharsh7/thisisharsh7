@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **MongoDB, Express, NodeJs, Blockchain**
 
-- 🤝 I am looking for help with **Open Source**
+- 🤝 I'm looking for help with **Open Source**
 
 - 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Git and GitHub**
 
