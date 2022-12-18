@@ -2,13 +2,13 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=for-the-badge&v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🌱 I'm currently learning **MongoDB, Express, NodeJs, Blockchain**
+- 🌱 I'm currently learning **MongoDB, Express, NodeJs, Blockchain**.
 
-- 🤝 I'm looking for help with **Open Source**
+- 🤝 I'm looking for help with **Open Source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Git and GitHub**
+- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Git and GitHub**.
 
-- 📫 How to reach me **9u.harsh@gmail.com**
+- 📫 How to reach me **9u.harsh@gmail.com**.
 
 - 📝 My [Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b "My First Dev Blog")
 
