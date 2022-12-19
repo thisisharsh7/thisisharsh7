@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
-- 📝 My [Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b "My First Dev Blog")
+- 📝 My [Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b "My First Dev Blog").
 
 <br/>
 <br/>
