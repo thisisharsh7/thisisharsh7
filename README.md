@@ -6,7 +6,7 @@
 
 - 🤝 I'm looking for help with **Open Source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Git and GitHub**.
+- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Atri , Git and GitHub**.
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
