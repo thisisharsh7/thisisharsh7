@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming languages
 
 <br/>
 <p >
