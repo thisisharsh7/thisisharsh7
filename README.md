@@ -6,7 +6,7 @@
 
 - 🤝 I'm looking for help with **Open Source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Atri , Git and GitHub**.
+- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs , C++ , Atri, Bootstrap , Git and GitHub**.
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming Languages
 
 <br/>
 <p >
@@ -101,7 +101,7 @@
   </div>
 <br>
 
-## 🔥 Streak stats
+## 🔥 Streak Stats
 
 <br>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
