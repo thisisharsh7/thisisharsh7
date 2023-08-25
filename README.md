@@ -4,9 +4,9 @@
 
 - 🌱 I'm currently learning **MongoDB, DSA**.
 
-- 🤝 I'm looking for help with **Open Source**.
+- 🤝 I'm looking for help with **Open source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap , Git and GitHub**.
+- 💬 Ask me about **C , HTML , CSS , JavaScript, TailwindCSS , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap , Git and GitHub**.
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
