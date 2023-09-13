@@ -2,11 +2,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=for-the-badge&v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-- 🌱 I'm currently learning **MongoDB, DSA**.
+- 🌱 I'm currently learning **MongoDB, DSA, DevOps**.
 
 - 🤝 I'm looking for help with **Open source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript, TailwindCSS , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap , Git and GitHub**.
+- 💬 Ask me about **C , HTML , CSS , JavaScript, TailwindCSS , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap, Docker, Git and GitHub**.
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
