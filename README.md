@@ -6,7 +6,7 @@
 
 - 🤝 I'm looking for help with **Open source**.
 
-- 💬 Ask me about **C , HTML , CSS , JavaScript, Python, TailwindCSS , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap, Docker, Git and GitHub**.
+- 💬 Ask me about **C , HTML , CSS , JavaScript , Python , TailwindCSS , React , NextJs, NodeJs, Express , C++ , Atri, Bootstrap, Docker, Git and GitHub**.
 
 - 📫 How to reach me **9u.harsh@gmail.com**.
 
