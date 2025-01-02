@@ -1,8 +1,6 @@
 <h1>Hello there <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" /></h1>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=for-the-badge&v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-- 🌱 I'm currently learning **MongoDB, DSA, DevOps**.
+- 🌱 I'm currently learning **MongoDB, DSA, DevOps, Hacking**.
 
 - 🤝 I'm looking for help with **Open source**.
 
