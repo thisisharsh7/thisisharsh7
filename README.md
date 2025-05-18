@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=thisisharsh7&label=Profile%20views&color=0e75b6&style=flat)
+
+
 <h1 align="center">Hey there! <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" alt="👋" /></h1>
 
 <p align="center">
