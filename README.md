@@ -26,8 +26,6 @@
 </div>
 
 
----
-
 ## ⚡ What I Do
 
 - 🌐 Build **beautiful, responsive websites** using modern stacks like **React, Next.js, and TailwindCSS**
@@ -36,8 +34,6 @@
 - 🧠 Solve complex problems and refactor legacy code (reviewed over 50+ directories)
 - 🎞️ Create AI-enhanced videos and manage content strategies on **Instagram, YouTube & more**
 - 🛠️ Automate tasks and explore infrastructure with **Docker, GitHub Actions, and DevOps tools**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -80,8 +76,6 @@
   <img src="https://img.shields.io/badge/ElevenLabs-AI-black?style=for-the-badge&logo=ai&logoColor=white"/>
 </p>
 
----
-
 ## 🔥 GitHub Stats
 
 <p align="center">
@@ -96,11 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisharsh7&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
-
 ## 🚀 Let's Connect & Build Something Awesome!
 - 💌 [Email Me](mailto:9u.harsh@gmail.com)
 - 📝 [Read My Blog](https://dev.to/thisisharsh7/before-you-start-coding--357b)
 - 💬 DM on Discord or LinkedIn — always happy to talk tech, content or collabs!
-
----
