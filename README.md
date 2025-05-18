@@ -4,21 +4,12 @@
   <b>I'm Harsh — a passionate Frontend Developer, Full-Stack Explorer, and Creative Technophile 🚀</b>
 </p>
 
-<div align="center">
+## 🔭 I’m Currently Working On
 
-  <h3>🔭 I’m Currently Working On</h3>
-
-  <ul align="left" style="display: inline-block; text-align: left;">
-    <li>🚀 Revisiting and sharpening my knowledge of <strong>DSA</strong></li>
-    <li>📦 Expanding skills in <strong>MongoDB, React, Node.js, Firebase, Docker, and Express</strong></li>
-    <li>🔐 Exploring <strong>Web3</strong> technologies and <strong>ethical hacking</strong></li>
-    <li>🧠 Building and optimizing full-stack apps with a <strong>DevOps mindset</strong></li>
-  </ul>
-
-  <br/>
-</div>
-
-
+- 🚀 Revisiting and sharpening my knowledge of **DSA**
+- 📦 Expanding skills in **MongoDB, React, Node.js, Firebase, Docker, and Express**
+- 🔐 Exploring **Web3** technologies and **ethical hacking**
+- 🧠 Building and optimizing full-stack apps with a **DevOps mindset**
 
 ## ⚡ What I Do
 
