@@ -18,9 +18,11 @@
   <br/>
 
   <h3>💡 What I Do</h3>
-  <p>I love building sleek, scalable web apps — from <strong>frontend experiences in React/Next.js</strong> to <strong>backend APIs with Node.js & MongoDB</strong>.</p>
-  <p>I’ve worked on <strong>full-stack applications</strong> with authentication, payments (Stripe), and real-time data (Firebase).</p>
-  <p>Outside of code, I’m passionate about <strong>video editing</strong> and managing <strong>social media content</strong> using AI tools like <strong>ElevenLabs</strong>.</p>
+  <ul align="left" style="display: inline-block; text-align: left;">
+    <li>I love building sleek, scalable web apps — from <strong>frontend experiences in React/Next.js</strong> to <strong>backend APIs with Node.js & MongoDB</strong>.</li>
+    <li>I’ve worked on <strong>full-stack applications</strong> with authentication, payments (Stripe), and real-time data (Firebase).</li>
+    <li>Outside of code, I’m passionate about <strong>video editing</strong> and managing <strong>social media content</strong> using AI tools like <strong>ElevenLabs</strong>.</li>
+  </ul>
 
   <br/>
 
