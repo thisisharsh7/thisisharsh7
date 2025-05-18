@@ -17,13 +17,20 @@
 
   <br/>
 
-  <p>🤝 Open to collaboration on: <strong>Open Source Projects</strong></p>
-  <p>💬 Ask me about: <strong>React, Next.js, Firebase, Node.js, Stripe, TailwindCSS</strong></p>
-  <p>🎨 Bonus: Video Editor & Social Media Content Creator using AI tools like <strong>ElevenLabs</strong></p>
-  <p>📬 Reach me: <a href="mailto:9u.harsh@gmail.com">9u.harsh@gmail.com</a></p>
-  <p>📝 <a href="https://dev.to/thisisharsh7/before-you-start-coding--357b" target="_blank">Read My Blog</a></p>
+  <h3>💡 What I Do</h3>
+  <p>I love building sleek, scalable web apps — from <strong>frontend experiences in React/Next.js</strong> to <strong>backend APIs with Node.js & MongoDB</strong>.</p>
+  <p>I’ve worked on <strong>full-stack applications</strong> with authentication, payments (Stripe), and real-time data (Firebase).</p>
+  <p>Outside of code, I’m passionate about <strong>video editing</strong> and managing <strong>social media content</strong> using AI tools like <strong>ElevenLabs</strong>.</p>
+
+  <br/>
+
+  <h3>🤝 Let's Connect</h3>
+  <p><strong>Looking to collaborate</strong> on Open Source Projects or anything exciting in the dev/content space!</p>
+  <p><strong>Ask me about:</strong> React, Next.js, Firebase, Node.js, Stripe, TailwindCSS</p>
+  <p>📬 <a href="mailto:9u.harsh@gmail.com">9u.harsh@gmail.com</a> | 📝 <a href="https://dev.to/thisisharsh7/before-you-start-coding--357b" target="_blank">Read My Blog</a></p>
 
 </div>
+
 
 
 ## ⚡ What I Do
