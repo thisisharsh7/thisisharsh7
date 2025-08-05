@@ -20,8 +20,12 @@ const harsh: Developer = {
     "Writing UI feedback & code reviews (300+ on Frontend Mentor)",
     "Using AI tools (ChatGPT, Claude, Amazon Q) to ship faster"
   ],
-  learningNext: ["System Design", "TypeScript Patterns", "DevOps Basics"],
-  funFact: "I once built 30+ UI's in 30 days just for fun.",
+  learningNext: [
+    "React Native",
+    "Full-Stack Development",
+    "DSA (C/C++)"
+  ],
+  funFact: "I once built 30+ UIs in 30 days just for fun.",
   motto: "Still learning. Still building. Always curious."
 };
 ```
