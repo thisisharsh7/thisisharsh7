@@ -1,31 +1,18 @@
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  currentlyWorking: string[];
-  learningNext: string[];
-  funFact: string;
-  motto: string;
-}
 
-const harsh: Developer = {
-  name: "Harsh Kumar",
-  role: "Frontend Engineer (React & Next.js)",
-  location: "Delhi, India 🇮🇳",
-  currentlyWorking: [
-    "Building full-stack features at early-stage startups",
-    "Turning Figma designs into responsive UIs",
-    "Writing UI feedback & code reviews (300+ on Frontend Mentor)",
-    "Using AI tools (ChatGPT, Claude, Amazon Q) to ship faster"
-  ],
-  learningNext: [
-    "React Native",
-    "Full-Stack Development",
-    "DSA (C/C++)"
-  ],
-  funFact: "I once built 30+ UIs in 30 days just for fun.",
-  motto: "Still learning. Still building. Always curious."
-};
-```
+I’m [**Harsh**](https://github.com/thisisharsh), a frontend engineer based in Delhi, India.
+
+I love crafting clean UIs, building full-stack web apps, and turning ideas into fast, responsive websites.  
+I enjoy working in teams, solving challenging problems, and continuously improving how things look and work.
+
+When I’m not coding, I’m usually:
+- Listening to podcasts or music  
+- Watching anime or donghua  
+- Editing videos or managing social media for fun  
+- Thinking about startup ideas or exploring something new
+
+#### Fun Facts:
+
+- I once built 30+ UIs in 30 days just for fun.  
+- I draw quick sketches when I start feeling sleepy — it keeps me alert.
