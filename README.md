@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+digital+experiences+that+matter+✨;Turning+ideas+into+reality+💡;Code+%7C+Create+%7C+Innovate+🎯" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1000&pause=500&color=4ECDC4&center=true&vCenter=true&width=600&lines=Building+digital+experiences+that+matter+✨;Turning+ideas+into+reality+💡;Code+%7C+Create+%7C+Innovate+🎯" alt="Subtitle" />
 </div>
 
 <br>
