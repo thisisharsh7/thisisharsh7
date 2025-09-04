@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 
-I’m [**Harsh**](https://thisisharsh7.vercel.app), a builder from Delhi, India — a Full-Stack Engineer who loves turning ideas into sleek, responsive products.
+I’m [**Harsh**](https://thisisharsh7.vercel.app), a builder from Delhi, India -- a Full-Stack Engineer who loves turning ideas into sleek, responsive products.
 
 I love crafting clean UIs, building full-stack web apps, and turning ideas into fast, responsive websites.  
 I enjoy working in teams, solving challenging problems, and continuously improving how things look and work.
