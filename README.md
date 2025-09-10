@@ -13,5 +13,5 @@ When I’m not coding, I’m usually:
 
 #### Fun Facts:
 
-- I built a conversational AI platform with real-time chat and payments integration
+- I’ve tried coding in C, C++, Python, R, Java, JavaScript, and TypeScript just for the thrill of it!
 - I draw quick sketches when I start feeling sleepy - it keeps me alert
