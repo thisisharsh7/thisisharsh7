@@ -1,10 +1,9 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
+I'm [**Harsh**](https://thisisharsh7.vercel.app), a Full-Stack Developer from Delhi, India who loves turning ideas into complete web applications.
 
-I’m [**Harsh**](https://thisisharsh7.vercel.app), a builder from Delhi, India a Full-Stack Engineer who loves turning ideas into sleek, responsive products.
-
-I love crafting clean UIs, building full-stack web apps, and turning ideas into fast, responsive websites.  
-I enjoy working in teams, solving challenging problems, and continuously improving how things look and work.
+I love building end-to-end solutions, from React frontends to Node.js backends, databases, and AI integrations.
+I enjoy working in teams, solving challenging problems, and shipping products that users actually want.
 
 When I’m not coding, I’m usually:
 - Listening to podcasts or music  
@@ -14,5 +13,5 @@ When I’m not coding, I’m usually:
 
 #### Fun Facts:
 
-- I once built 30+ UIs in 30 days just for fun.  
-- I draw quick sketches when I start feeling sleepy - it keeps me alert.
+- I built a conversational AI platform with real-time chat and payments integration
+- I draw quick sketches when I start feeling sleepy - it keeps me alert
