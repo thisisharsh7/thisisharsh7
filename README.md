@@ -13,5 +13,5 @@ When I’m not coding, I’m usually:
 
 #### Fun Facts:
 
-- I’ve tried coding in C, C++, Python, R, Java, JavaScript, and TypeScript just for the thrill of it!
+- I learn touch typing so I could type code faster.
 - I draw quick sketches when I start feeling sleepy - it keeps me alert
