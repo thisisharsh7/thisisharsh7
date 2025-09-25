@@ -7,11 +7,11 @@ I enjoy working in teams, solving challenging problems, and shipping products th
 
 When I’m not coding, I’m usually:
 - Listening to podcasts or music  
-- Watching anime or donghua  
+- Watching anime or donghua
 - Editing videos or managing social media for fun  
 - Thinking about startup ideas or exploring something new
 
 #### Fun Facts:
 
-- I learn touch typing so I could type code faster.
+- I learn touch typing so I could type code faster
 - I draw quick sketches when I start feeling sleepy - it keeps me alert
